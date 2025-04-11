@@ -19,7 +19,7 @@ Este é um jogo de aventura em Python, onde o jogador assume o papel de um maruj
 
 ## Requisitos
 
-- Python 3.x instalado
+- Qualquer IDE python instalada
 
 ## Observação
 
